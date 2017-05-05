@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 #ignore packages isntalled by npm
 node_modules
 *~
 .DS_STORE
 credentials.js
+=======
+#ignore packages isntalled by npm
+node_modules
+*~
+.DS_STORE
+credentials.js
+>>>>>>> f40f8e16222afe3bba01b8958446f2a65f4afd5d
